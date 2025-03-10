@@ -1,7 +1,7 @@
 {
   "name": "Sasank-Raavi-portfolio",
   "version": "0.1.0",
-  "homepage": "",
+  "homepage": "https://Manikanta-81.github.io/SSR-portfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
@@ -30,8 +30,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [

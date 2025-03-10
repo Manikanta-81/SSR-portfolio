@@ -12,7 +12,7 @@ const Projects = ({ openModal, setOpenModal }) => {
       <Wrapper>
         <Title>Projects</Title>
         <Desc>
-          I have worked on a wide range of projects. From web apps to android apps. Here are some of my projects.
+        I have worked on a wide range of projects, from CAD designs to 3D modeling. Here are some of my projects using CREO, CATIA V5, and AutoCAD.
         </Desc>
         <ToggleButtonGroup >
           {toggle === 'all' ?
@@ -21,22 +21,22 @@ const Projects = ({ openModal, setOpenModal }) => {
             <ToggleButton value="all" onClick={() => setToggle('all')}>All</ToggleButton>
           }
           <Divider />
-          {toggle === 'web app' ?
-            <ToggleButton active value="web app" onClick={() => setToggle('web app')}>WEB APP'S</ToggleButton>
+          {toggle === 'CREO' ?
+            <ToggleButton active value="CREO" onClick={() => setToggle('web app')}>CREO</ToggleButton>
             :
-            <ToggleButton value="web app" onClick={() => setToggle('web app')}>WEB APP'S</ToggleButton>
+            <ToggleButton value="CREO" onClick={() => setToggle('web app')}>CREO</ToggleButton>
           }
           <Divider />
-          {toggle === 'android app' ?
-            <ToggleButton active value="android app" onClick={() => setToggle('android app')}>ANDROID APP'S</ToggleButton>
+          {toggle === 'AUTO CAD' ?
+            <ToggleButton active value="AUTO CAD" onClick={() => setToggle('AUTO CAD')}>AUTO CAD</ToggleButton>
             :
-            <ToggleButton value="android app" onClick={() => setToggle('android app')}>ANDROID APP'S</ToggleButton>
+            <ToggleButton value="AUTO CAD" onClick={() => setToggle('AUTO CAD')}>AUTO CAD</ToggleButton>
           }
           <Divider />
-          {toggle === 'machine learning' ?
-            <ToggleButton active value="machine learning" onClick={() => setToggle('machine learning')}>MACHINE LEARNING</ToggleButton>
+          {toggle === 'CATIA - V5' ?
+            <ToggleButton active value="CATIA - V5" onClick={() => setToggle('CATIA - V5')}>CATIA - V5</ToggleButton>
             :
-            <ToggleButton value="machine learning" onClick={() => setToggle('machine learning')}>MACHINE LEARNING</ToggleButton>
+            <ToggleButton value="CATIA - V5" onClick={() => setToggle('CATIA - V5')}>CATIA - V5</ToggleButton>
           }
         </ToggleButtonGroup>
         <CardContainer>
@@ -56,3 +56,5 @@ const Projects = ({ openModal, setOpenModal }) => {
 }
 
 export default Projects
+
+
