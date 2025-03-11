@@ -4,7 +4,7 @@ export const Bio = {
   description:
     "I am a dedicated and adaptable individual with a passion for creativity and innovation. With a strong foundation in mechanical engineering, I excel in problem-solving and delivering high-quality results. I thrive in diverse teams and prioritize continuous learning. My goal is to achieve success through precision and efficiency.",
   resume:
-    "https://drive.google.com/file/d/1m70Ld9opkvpXzDYlgBtSRVdeK3A5Tg0P/view?usp=drive_link",
+    "https://drive.google.com/file/d/1nE3z-8ySU6ol5gt32FX9OXXzun0Fmm9p/view?usp=drivesdk ",
   linkedin:
     "https://www.linkedin.com/in/sasank-raavi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ",
 };
@@ -86,7 +86,7 @@ export const education = [
     date: "Jan 2020 - April 2024",
     grade: "7.3 CGPA",
     desc: "I have completed my Bachelor's degree in Mechanical Engineering at Andhra Loyola institute of Engineering & Technology",
-    degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
+    degree: "Bachelor of Technology - BTech, Mechanical Engineering",
   },
   {
     id: 1,
@@ -94,17 +94,17 @@ export const education = [
     school: "Sri Venkateswara Junior College",
     date: "May 2018 - March 2020",
     grade: "9.19 CGPA",
-    desc: "I completed my class 12 high school education at Methodist School, Dankuni, where I studied Science with Computer Science.",
-    degree: "ISC(XII), Science with Computer",
+    desc: "I completed my class 12 high school education at Methodist School, Dankuni.",
+    degree: "SSC(XII), MPC",
   },
   {
     id: 2,
-    img: "https://ushodayachetana.com/images/template/logo.png",
+    img: "https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_Sri_Venkateswara_Bala_Kuteer.png",
     school: "Ushodaya English Medium School Chetana",
     date: "Apr 2017 - Apr 2018",
     grade: "378/500 Marks",
-    desc: "I completed my class 10 education at Methodist School, Dankuni, where I studied Science with Computer Application.",
-    degree: "ICSC(X), Science with Computer",
+    desc: "I completed my class 10 education at Methodist School, Dankuni.",
+    degree: "CBSE(X), ",
   },
 ];
 
