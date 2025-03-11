@@ -94,7 +94,7 @@ export const education = [
     school: "Sri Venkateswara Junior College",
     date: "May 2018 - March 2020",
     grade: "9.19 CGPA",
-    desc: "I completed my class 12 high school education at Methodist School, Dankuni.",
+    desc: "I completed my class 12 high school education in MPC Stream.",
     degree: "SSC(XII), MPC",
   },
   {
@@ -103,8 +103,8 @@ export const education = [
     school: "Ushodaya English Medium School Chetana",
     date: "Apr 2017 - Apr 2018",
     grade: "378/500 Marks",
-    desc: "I completed my class 10 education at Methodist School, Dankuni.",
-    degree: "CBSE(X), ",
+    desc: "I completed my class 10 education in Guntur",
+    degree: "CBSE(X)",
   },
 ];
 
