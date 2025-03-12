@@ -4,7 +4,7 @@ export const Bio = {
   description:
     "I am a dedicated and adaptable individual with a passion for creativity and innovation. With a strong foundation in mechanical engineering, I excel in problem-solving and delivering high-quality results. I thrive in diverse teams and prioritize continuous learning. My goal is to achieve success through precision and efficiency.",
   resume:
-    "https://drive.google.com/file/d/1nE3z-8ySU6ol5gt32FX9OXXzun0Fmm9p/view?usp=drivesdk ",
+    "https://drive.google.com/file/d/1y-qrKI-rHMLydAn870_yDWUQ0q2m_dMa/view?usp=drivesdk",
   linkedin:
     "https://www.linkedin.com/in/sasank-raavi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ",
 };
@@ -74,7 +74,7 @@ export const experiences = [
     company:
       "CHOICE CANNING COMPANY is a division of Choice Trading Corporation Pvt Ltd.",
     date: "january 2024 - November 2024",
-    desc: "Maintenance and operation of machinery. Doing both preventive and brekadown Maintenance.",
+    desc: "Maintenance and operation of machinery. Doing both preventive and breakdown maintenance.",
   },
 ];
 
