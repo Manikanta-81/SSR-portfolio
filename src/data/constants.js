@@ -231,13 +231,13 @@ export const projects = [
     tags: [],
     category: "CATIA - V5",
   },
-  // {
-  //   id: 13,
-  //   title: "",
-  //   date: "",
-  //   description: "",
-  //   image: "",
-  //   tags: [],
-  //   category: "",
-  // },
+  {
+    id: 13,
+    title: "Tripping Car",
+    date: "March 2025",
+    description: "A Tipping Car is a specialized rail vehicle used for efficiently transporting and unloading bulk materials like coal, ore, gravel, and sand. Its tilting mechanism allows for rapid, controlled unloading at designated spots, enhancing productivity in industries like mining, construction, and material handling. Applications: ✅ Mining operations for transporting minerals ✅ Construction sites for moving and dumping soil or gravel ✅ Industrial facilities for bulk material handling This project helped me enhance my skills in 3D modeling, assembly, and design optimization.",
+    image: "",
+    tags: ["CREO"],
+    category: "CREO",
+  },
 ];
