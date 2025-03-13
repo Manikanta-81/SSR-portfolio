@@ -236,7 +236,7 @@ export const projects = [
     title: "Tripping Car",
     date: "March 2025",
     description: "A Tipping Car is a specialized rail vehicle used for efficiently transporting and unloading bulk materials like coal, ore, gravel, and sand. Its tilting mechanism allows for rapid, controlled unloading at designated spots, enhancing productivity in industries like mining, construction, and material handling. Applications: ✅ Mining operations for transporting minerals ✅ Construction sites for moving and dumping soil or gravel ✅ Industrial facilities for bulk material handling This project helped me enhance my skills in 3D modeling, assembly, and design optimization.",
-    image: "",
+    image: `${process.env.PUBLIC_URL}/images/Tripping-car.png`,
     tags: ["CREO"],
     category: "CREO",
   },
