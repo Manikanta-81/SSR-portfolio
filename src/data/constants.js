@@ -197,6 +197,15 @@ export const projects = [
   },
   {
     id: 9,
+    title: "Tripping Car",
+    date: "March 2025",
+    description: "A Tipping Car is a specialized rail vehicle used for efficiently transporting and unloading bulk materials like coal, ore, gravel, and sand. Its tilting mechanism allows for rapid, controlled unloading at designated spots, enhancing productivity in industries like mining, construction, and material handling. Applications: ✅ Mining operations for transporting minerals ✅ Construction sites for moving and dumping soil or gravel ✅ Industrial facilities for bulk material handling This project helped me enhance my skills in 3D modeling, assembly, and design optimization.",
+    image: `${process.env.PUBLIC_URL}/images/Tripping-car.png`,
+    tags: ["CREO"],
+    category: "CREO",
+  },
+  {
+    id: 10,
     title: "Pipe Vice",
     date: "March 2025",
     description: "A pipe vice is a specialized tool used to securely hold pipes for cutting, threading, or welding. It features a hardened jaw mechanism that grips cylindrical objects firmly without slipping, making it essential in plumbing, welding, and mechanical workshops. My Design Highlights: ✅ 3D Modeling & Assembly – Created an accurate and functional design ✅ Rendering – Achieved a realistic visual representation ✅ Engineering Focus – Designed for durability, precision, and ease of use This project helped me refine my mechanical design, assembly constraints, and visualization skills. Always eager to take on new challenges in CAD and product design!",
@@ -205,7 +214,7 @@ export const projects = [
     category: "CATIA - V5",
   },
   {
-    id: 10,
+    id: 11,
     title: "Bicycle",
     date: "",
     description: "Excited to share my  latest Design—a fully designed cycle created using CATIA. This project helped me enhance my mechanical design, 3D modeling, and detailing skills while improving my understanding of realistic product development. I developed various parts like frame, Bearings, support rods etc.... and assembled it all together. Some key features of my design: ✅ Precise Frame Geometry for better aerodynamics✅ Ergonomic Design ensuring comfort and efficiency✅ High-Quality Rendering for realistic visualization",
@@ -214,7 +223,7 @@ export const projects = [
     category: "CATIA - V5",
   },
   {
-    id: 11,
+    id: 12,
     title: "Engine - Assembly",
     date: "",
     description: "Excited to share one of my latest projects in CATIA V5! As part of my journey into mechanical design engineering, I have successfully designed, assembled, and simulated a 6-cylinder engine with the following critical components:🔺 Engine Block 🔺Piston Head & Piston Rod 🔺Connecting Rod & Connecting Rod Cap 🔺Crankshaft This project allowed me to enhance my expertise in 3D modeling, assembly constraints, and motion simulation, helping me understand the real-world dynamics of an engine. Seeing the virtual assembly come to life with motion analysis was truly rewarding! Key Takeaways: ✅ Hands-on experience with complex mechanical components ✅ Improved proficiency in CATIA V5 for detailed part design & assembly ✅ Applied kinematic simulation to visualize real-world engine motion",
@@ -223,7 +232,7 @@ export const projects = [
     category: "CATIA - V5",
   },    
   {
-    id: 12,
+    id: 13,
     title: "6 Axios Robot",
     date: "",
     description: "A 6-axis robot is an industrial robotic arm with six degrees of freedom, allowing it to move in all directions—similar to a human arm. The six axes enable movements like: ✅ Rotation & tilting of the base ✅ Up/down & forward/backward motion ✅ Wrist rotation & angular adjustments🔹 Applications of 6-Axis Robots These robots are widely used in industrial automation due to their flexibility and precision: 🔧 Manufacturing & Assembly – Handling intricate assembly tasks ⚙ CNC Machining & Welding – Performing precise movements 📦 Material Handling & Packaging – Automating logistics 🎨 Painting & Coating – Ensuring consistent application 🏭 Automobile & Aerospace – Used for various fabrication tasks",
@@ -231,13 +240,5 @@ export const projects = [
     tags: ["CATIA - V5"],
     category: "CATIA - V5",
   },
-  {
-    id: 13,
-    title: "Tripping Car",
-    date: "March 2025",
-    description: "A Tipping Car is a specialized rail vehicle used for efficiently transporting and unloading bulk materials like coal, ore, gravel, and sand. Its tilting mechanism allows for rapid, controlled unloading at designated spots, enhancing productivity in industries like mining, construction, and material handling. Applications: ✅ Mining operations for transporting minerals ✅ Construction sites for moving and dumping soil or gravel ✅ Industrial facilities for bulk material handling This project helped me enhance my skills in 3D modeling, assembly, and design optimization.",
-    image: `${process.env.PUBLIC_URL}/images/Tripping-car.png`,
-    tags: ["CREO"],
-    category: "CREO",
-  },
+ 
 ];
