@@ -1,6 +1,6 @@
 export const Bio = {
   name: "Sasank Raavi",
-  roles: ["Mechanical Engineer", "Designer Engineer"],
+  roles: ["Mechanical Engineer", "Design Engineer"],
   description:
     "I am a dedicated and adaptable individual with a passion for creativity and innovation. With a strong foundation in mechanical engineering, I excel in problem-solving and delivering high-quality results. I thrive in diverse teams and prioritize continuous learning. My goal is to achieve success through precision and efficiency.",
   resume:
