@@ -23,6 +23,8 @@ const Projects = ({ openModal, setOpenModal }) => {
           <ToggleButton active={toggle === 'AUTO CAD'} onClick={() => setToggle('AUTO CAD')}>AUTO CAD</ToggleButton>
           <Divider />
           <ToggleButton active={toggle === 'CATIA - V5'} onClick={() => setToggle('CATIA - V5')}>CATIA - V5</ToggleButton>
+          <Divider />
+          <ToggleButton active={toggle === 'SOLIDWORKS'} onClick={() => setToggle('SOLIDWORKS')}>SOLIDWORKS</ToggleButton>
         </ToggleButtonGroup>
 
         {/* Displaying Project Cards */}

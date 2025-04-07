@@ -240,5 +240,14 @@ export const projects = [
     tags: ["CATIA - V5"],
     category: "CATIA - V5",
   },
+  {
+    id:14,
+    title: "Bobcat Design & Assembly",
+    date: "",
+    description: "Excited to share my design—a fully designed and assembled Bobcat in SolidWorks! This project helped me dive deep into mechanical design, part modeling, and assembly techniques, refining my CAD skills even further. Key Highlights: ✅ Detailed 3D modeling of all major components ✅ Assembly & motion analysis for realistic movement ✅ Optimized design for efficiency & functionality",
+    image: `${process.env.PUBLIC_URL}/images/Bobcat.png`,
+    tags: ["SOLIDWORKS"],
+    category: "SOLIDWORKS",
+  },
  
 ];
