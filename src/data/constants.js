@@ -233,7 +233,7 @@ export const projects = [
   },    
   {
     id: 13,
-    title: "6 Axios Robot",
+    title: "6 Axis Robot",
     date: "",
     description: "A 6-axis robot is an industrial robotic arm with six degrees of freedom, allowing it to move in all directions—similar to a human arm. The six axes enable movements like: ✅ Rotation & tilting of the base ✅ Up/down & forward/backward motion ✅ Wrist rotation & angular adjustments🔹 Applications of 6-Axis Robots These robots are widely used in industrial automation due to their flexibility and precision: 🔧 Manufacturing & Assembly – Handling intricate assembly tasks ⚙ CNC Machining & Welding – Performing precise movements 📦 Material Handling & Packaging – Automating logistics 🎨 Painting & Coating – Ensuring consistent application 🏭 Automobile & Aerospace – Used for various fabrication tasks",
     image: `${process.env.PUBLIC_URL}/images/6axis robot.png`,
