@@ -249,5 +249,13 @@ export const projects = [
     tags: ["SOLIDWORKS"],
     category: "SOLIDWORKS",
   },
- 
+  {
+    id:15,
+    title: "1 cylinder vertical oscillating steam engine",
+    date: "",
+    description: "Designed a fully functional 3D model of a 1-cylinder vertical oscillating steam engine using SolidWorks. The 1-cylinder vertical oscillating steam engine works on the principle of converting steam energy into mechanical work through a simple and compact mechanism. In this design, steam enters the cylinder through a fixed port in the engine base. As the piston moves up and down due to steam pressure, the entire cylinder oscillates (pivots) around a pin to alternately align the inlet and exhaust ports. This eliminates the need for a separate valve system. The reciprocating motion of the piston is transferred to the crankshaft via a connecting rod, which in turn rotates the flywheel, producing rotary motion",
+    image: `${process.env.PUBLIC_URL}/images/one-cyclinder.png`,
+    tags: ["SOLIDWORKS"],
+    category: "SOLIDWORKS",
+  },
 ];
