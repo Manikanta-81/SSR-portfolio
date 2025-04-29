@@ -30,9 +30,14 @@ export const skills = [
         image: `${process.env.PUBLIC_URL}/images/solidworks.png`,
       },
       {
+        name: "Siemens NX CAD",
+        image: `${process.env.PUBLIC_URL}/images/NX-CAD.png`,
+      },
+      {
         name: "GD&T",
         image: `${process.env.PUBLIC_URL}/images/gd&t.png`,
       },
+     
     ],
   },
   {
