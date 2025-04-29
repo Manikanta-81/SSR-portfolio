@@ -4,7 +4,7 @@ export const Bio = {
   description:
     "I am a dedicated and adaptable individual with a passion for creativity and innovation. With a strong foundation in mechanical engineering, I excel in problem-solving and delivering high-quality results. I thrive in diverse teams and prioritize continuous learning. My goal is to achieve success through precision and efficiency.",
   resume:
-    "https://drive.google.com/file/d/1y-qrKI-rHMLydAn870_yDWUQ0q2m_dMa/view?usp=drivesdk",
+    "hhttps://drive.google.com/file/d/1M1RsZycznDMBlnq5csjNJ6ObnPFOwcHo/view?usp=drivesdk",
   linkedin:
     "https://www.linkedin.com/in/sasank-raavi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ",
 };
